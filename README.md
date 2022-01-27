@@ -2,7 +2,7 @@
 
 # Homework 01
 
-- Создай репозиторий `goit-markup-hw-01`. - [**DONE**]
+- Создай репозиторий `goit-markup-hw-01`. - **`DONE`**
 - Выполни HTML-разметку макета страницы
   [**домашнего задания #1**](<https://www.figma.com/file/oTYBECAN79dXy19hzWObO4/Web-Studio-(Version-2.1)?node-id=0%3A1>),
   без CSS оформления.
@@ -12,7 +12,7 @@
 
 ### Проект
 
-**`«A1»`** Главный HTML-файл называется `index.html`. [**DONE**]
+**`«A1»`** Главный HTML-файл называется `index.html`. - **`DONE`**
 
 **`«A2»`** В корне проекта есть папка `images` с изображениями.
 
